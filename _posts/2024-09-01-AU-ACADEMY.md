@@ -5,6 +5,7 @@ image:
     path: /assets/covers/tryhackme.png
 autor: AreiaNight
 tags: [auacademy, writeup, tryhackme]
+category: Pentesting
 ---
 ## INFORMACIÓN SOBRE LA MÁQUINA
 - **Nombre:** U.A. High School
